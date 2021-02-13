@@ -1,0 +1,96 @@
+a {
+  text-decoration: none;
+}
+
+.skills {
+  background-color: #1d1d1d;
+  width: 100%;
+  padding: 80px 40px;
+  color: #fff;
+}
+
+.skills-text-title {
+  font-size: 45px;
+  font-weight: bold;
+  color: #e43f5a;
+}
+
+.skills-content {
+  padding: 40px 20px;
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.skills-item {
+  display: flex;
+  line-height: 30px;
+  letter-spacing: 1px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.experience-content {
+  padding: 0 10px;
+}
+
+.skills-item-first {
+  animation: fadeInLeft 2s;
+}
+
+.skills-item-second {
+  animation: fadeInRight 2.3s;
+}
+
+.skills-item-third {
+  animation: fadeInLeft 2.6s;
+}
+
+.skills-item-fourth {
+  animation: fadeInRight 2.9s;
+}
+
+.skills-item-fifth {
+  animation: fadeInLeft 3.2s;
+}
+
+.skills-item-sixth {
+  animation: fadeInRight 3.5s;
+}
+
+.experience-content {
+  font-size: 20px;
+}
+
+.static-web {
+  margin-bottom: 40px;
+  animation: letterFade 3.7s;
+}
+
+.web-app {
+  animation: letterFade 3.9s;
+}
+
+.web-title {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+
+.web-item {
+  margin-bottom: 20px;
+}
+
+.emphasis {
+  color: #e43f5a;
+}
+
+@media (min-width: 580px) {
+  .br {
+    display: none;
+  }
+
+  .skills-content {
+    margin: auto;
+    width: 70%;
+  }
+}

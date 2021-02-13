@@ -1,0 +1,110 @@
+.about {
+  background-color: #1d1d1d;
+  width: 100%;
+  padding: 80px 40px;
+  color: #fff;
+  font-size: 20px;
+}
+
+.color {
+  color: #e43f5a;
+}
+
+.about-text-title {
+  font-size: 45px;
+  font-weight: bold;
+  color: #e43f5a;
+}
+
+.about-profile {
+  width: 100%;
+  margin: 40px 10px;
+  line-height: 26px;
+  cursor: default;
+}
+
+.about-education {
+  width: 100%;
+  margin: 40px 10px;
+  cursor: default;
+}
+
+.profile-first {
+  animation: fadeInUp 1s;
+}
+
+.profile-second {
+  animation: fadeInUp 1.2s;
+}
+
+.profile-third {
+  animation: fadeInUp 1.4s;
+}
+
+.profile-fourth {
+  animation: fadeInUp 1.6s;
+}
+
+.profile-fifth {
+  animation: fadeInUp 1.8s;
+}
+
+.profile-sixth {
+  animation: fadeInUp 2s;
+}
+
+.edu-first {
+  font-size: 30px;
+  color: #e43f5a;
+  animation: fadeInUp 2.2s;
+}
+
+.edu-second {
+  font-size: 23px;
+  margin-bottom: 10px;
+  letter-spacing: 1px;
+  animation: fadeInUp 2.4s;
+}
+
+.edu-third {
+  font-size: 18px;
+  color: #a33245;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  animation: fadeInUp 2.6s;
+}
+
+.edu-fourth {
+  letter-spacing: 1px;
+  animation: fadeInUp 2.8s;
+}
+
+.edu-fifth {
+  letter-spacing: 1px;
+  animation: fadeInUp 3s;
+}
+
+.edu-sixth {
+  font-size: 23px;
+  margin-bottom: 10px;
+  letter-spacing: 1px;
+  animation: fadeInUp 3.2s;
+}
+
+.edu-seventh {
+  font-size: 18px;
+  color: #a33245;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  animation: fadeInUp 3.4s;
+}
+
+.edu-eighth {
+  letter-spacing: 1px;
+  animation: fadeInUp 3.6s;
+}
+
+.edu-ninth {
+  letter-spacing: 1px;
+  animation: fadeInUp 3.8s;
+}
